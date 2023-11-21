@@ -1,0 +1,105 @@
+header{
+    width: 100%;
+    height: 430px;
+    background-color: brown;
+    text-align: left;
+    padding-left: 199px;
+    background-image: url(https://i.amediateka.tech/resize/1920x960/_stor_/cms/content-contentasset/6/5b/c839f3aeeaaef920bb997965ac73c65b-123914-ebe7d850404e4d0497778e96f57daf4f.jpg);
+    background-size: cover;
+    background-position: top;
+    padding-top: 20px;
+    color: rgb(219, 232, 243);
+    
+    font-family: 'Palatino linotype';
+}
+main{ 
+    height: 100%;
+    padding: 10px;
+    background-color: rgb(19, 7, 121);
+    width: 100%; 
+    display:flex;
+    justify-content: center;
+}
+
+footer{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(1, 1, 66);
+    display: flex;
+}
+.x{
+    text-shadow: rgb(15, 3, 83) 5px 5px;
+    font-size: 150px;
+    margin: 0px;
+    
+}
+.f{
+    font-size: 50px;
+    text-shadow: rgb(73, 2, 2) 5px 5px;
+    font-style: oblique;
+    padding-left: 145px;
+}
+.j{
+    font-size: 50px;
+}
+.topright{
+    height: 100%;
+    width: 50%;
+    background: linear-gradient( to top, rgb(22, 1, 61), rgb(46, 50, 247) );
+    margin: 30px;
+    float: left;
+}
+.right{
+    text-align: justify;
+    height: 50%;
+    width: 100%;
+}
+
+.right2{
+    text-align: justify;
+    font-size: 35px;
+    width: 100%;
+    height: 50%;
+}
+
+.left{
+    float: right;
+    margin-right: 150px;
+    width: 30%;
+    height: 100%;
+    
+}
+.q{
+    font-size: 55px;
+    padding-left: 340px;
+    font-family: Constantia;
+    text-shadow: rgb(61, 0, 0) 1px 5px;
+}
+.g{
+    font-size: 42px;
+    padding: 5px;
+    text-shadow: rgb(61, 0, 0) 1px 5px;
+    font-family: Bahnschrift;
+}
+.con{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.jk{
+    width: 100%;
+    
+    
+}
+.jk img{ 
+    float: right;
+    width: 200px;
+}
+.jk ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+body{
+    margin: 0px;
+}
